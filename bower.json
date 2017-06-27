@@ -1,0 +1,52 @@
+{
+  "name": "poeticprogrammer",
+  "homepage": "https://github.com/c0demark/poeticprogrammer",
+  "authors": [
+    "VIJAY KUMAR <kumarvijay336@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-ui-router": "^1.0.4",
+    "angular-bootstrap": "^2.5.0",
+    "angular-resource": "^1.6.4",
+    "angular-route": "^1.6.4",
+    "angular-cookies": "^1.6.4",
+    "angular-messages": "^1.6.4",
+    "angular-animate": "^1.6.4",
+    "angular-aria": "^1.6.4",
+    "angular-message-format": "^1.6.4",
+    "angular-mocks": "^1.6.4",
+    "angular-parse-ext": "^1.6.4",
+    "angular-sanitize": "^1.6.4",
+    "angular-touch": "^1.6.4",
+    "angular-material": "^1.1.4",
+    "angular-scenario": "^1.6.4",
+    "angular-i18n": "^1.6.4",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "font-awesome": "fontawesome#^4.7.0",
+    "moment": "^2.18.1",
+    "lodash": "^4.17.4",
+    "protractor": "^5.1.2",
+    "bootstrap-select": "^1.12.2",
+    "bootstrap-multiselect": "^0.9.13",
+    "highcharts": "^5.0.12",
+    "modernizr": "^3.5.0",
+    "amcharts3": "^3.21.2",
+    "jspdf": "^1.3.4",
+    "ngstorage": "^0.3.11",
+    "jquery.easing": "^1.3.1",
+    "ExplorerCanvas": "*"
+  }
+}
